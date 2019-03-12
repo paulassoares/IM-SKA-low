@@ -1,4 +1,4 @@
-IM-SKA-low
+# IM SKA-LOW
 
 HI Intensity Mapping with SKA-LOW:
 - HI power spectrum and noise power spectrum due to instrument configurations;
